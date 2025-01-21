@@ -1,0 +1,106 @@
+/* begining form */
+
+form {
+  width: 800px;
+  height: 100%;
+  margin: 10% 40% 15% 25%;
+  position: relative;
+  border-radius: 10px;
+  background-color: rgb(203, 178, 169, 0.5);
+  box-shadow: 5px 5px rgba(54, 33, 33, 0.623);
+}
+
+/* Heading */
+
+h1 {
+  position: relative;
+  font-size: 50px;
+  left: 250px;
+  margin-bottom: 5rem;
+  height: 10px;
+}
+
+label {
+  font-size: 30px;
+  margin-left: 38px;
+  margin-bottom: 40px;
+}
+
+input {
+  width: 400px;
+  height: 30px;
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  margin-bottom: 25px;
+  margin-left: 70px;
+  border-radius: 10px;
+}
+
+.name {
+  position: relative;
+  left: 155px;
+}
+
+.lastname {
+  position: relative;
+  left: 95px;
+}
+
+.age {
+  position: relative;
+  left: 175px;
+}
+
+.dateofbirth {
+  position: relative;
+  left: 68px;
+}
+
+.email {
+  position: relative;
+  left: 155px;
+}
+
+.createpassword {
+  position: relative;
+  left: 25px;
+}
+
+.confirmpassword {
+  position: relative;
+  left: 3px;
+}
+
+.phonenumber {
+  position: relative;
+  left: 40px;
+}
+
+.address {
+  position: relative;
+  left: 128px;
+}
+
+input.A{
+  position: relative;
+  bottom: 25px;
+  left: 100px;
+}
+
+input.B{
+  position: relative;
+  bottom: 80px;
+  left: 400px;
+}
+
+section .submit{
+  height: 50px;
+  width: 300px;
+  background-color: rgb(119, 148, 138);
+  border-radius: 5px;
+  border: 1px solid black;
+  position: relative;
+  left: 280px;
+  cursor: pointer;
+}
